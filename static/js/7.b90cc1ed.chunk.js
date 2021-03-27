@@ -1,0 +1,2 @@
+(this["webpackJsonp@xbank/interface"]=this["webpackJsonp@xbank/interface"]||[]).push([[7],{1013:function(n,c){},667:function(n,c){},668:function(n,c){},677:function(n,c){},678:function(n,c){},698:function(n,c){},701:function(n,c){},702:function(n,c){},707:function(n,c){},711:function(n,c){}}]);
+//# sourceMappingURL=7.b90cc1ed.chunk.js.map
